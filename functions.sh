@@ -69,3 +69,8 @@ if [ -n "$IT2_SESSION_COLOR" ]; then
     it2-tab-color $IT2_SESSION_COLOR
 fi
 
+# add some aliases for super fast love
+alias red='it2-tab-color 813030'
+alias blue='it2-tab-color 304681'
+alias purple='it2-tab-color 6c0082'
+alias green='it2-tab-color 123023'
